@@ -1,6 +1,7 @@
 {
     "name": "mip-ticket",
     "version": "1.0.1",
+    "description":"票价组件",
     "contributors": [
         {
             "name": "yanfei",
